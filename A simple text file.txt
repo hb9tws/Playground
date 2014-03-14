@@ -1,1 +1,7 @@
-This is the first version. It contains only one line of text.
+This is the 2nd version.
+Here is another line of text.
+And a signature:
+
+Cheers,
+Stefan
+
